@@ -1,0 +1,38 @@
+1.JavaSE               +2000                    1200                 
+2.JavaEE	       +2000                    1300
+3.JavaScript	       +1000                    300
+4,JQuery               +1000                    200
+5.JavaWeb	       +1000                    500
+6.MySQL		       +1000                    700
+7.数据结构和算法设计	+2000                   100
+8.HTML5+CSS3          +1000                     500
+9.Ajax                +1000                     200
+10.gitHub             +1000                    	400
+11.Eclipse            +1000                     300
+12.???
+
+
+BOSS=25000；
+
+
+ME=14000？
+
+2018.05.24: 战斗力：                          5300
+2018.05.25: 战斗力；           （完成简单的sh两框整合）5700
+
+（1）JavaSE 和 MySQL
+1.January
+2.February
+3.March
+4.April
+5.May
+6.June
+7.July
+8.August
+9.September
+10.October
+11.November
+12.December
+
+gitHub: utilmateZY,79112167v
+gitbash: code: 359235qq
